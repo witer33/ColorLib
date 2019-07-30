@@ -1,8 +1,8 @@
 # ColorLib
 A Python library to add more color on your app!
 
+Copy <b>color.py<b> in the folder with your Python file and put:
 
-Put:
 <code>from color import *</code>
 
 On the start of your code to import this library.
