@@ -7,7 +7,7 @@ Put:
 
 On the start of your code to import this library.
 
-#Usage
+# Usage
 If you want to print a red text use:
 
 <code>print(error("text"))</code>
